@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.user{
+    border: 1px solid black;
+    padding: 10px;
+    max-width: 350px;
+    width: 100%;
+    border-radius: 15px;
+    margin: 0 auto;
+}

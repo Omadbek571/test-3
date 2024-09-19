@@ -1,0 +1,10 @@
+.adress{
+    padding: 10px 20px;
+    background-color: aqua;
+    color: blue;
+    margin-top: 10px;
+
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

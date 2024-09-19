@@ -1,0 +1,18 @@
+.cars{
+    display: flex;
+    gap: 20px;
+}
+.tel-gmail{
+    display: flex;
+    gap: 100px;
+}
+.ism-f{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 24px;
+}
+.img{
+    display: flex;
+    margin: 0px auto;
+}

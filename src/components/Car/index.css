@@ -1,0 +1,10 @@
+.carss{
+    display: flex;
+    
+}
+.btn{
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
